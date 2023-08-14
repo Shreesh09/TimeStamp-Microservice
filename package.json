@@ -8,7 +8,7 @@
     "build": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "shreesh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
